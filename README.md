@@ -1,2 +1,2 @@
 # HTML-AND-CSS-TEMPLAET_
-project html and css / I LEARNED FROM EL ZERO WEB SCHOLLE
+project html and css - responsive website
